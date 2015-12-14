@@ -1,0 +1,4 @@
+twitter=Twitter
+reddit=Reddit
+facebook=Facebook
+youtube=Youtube
